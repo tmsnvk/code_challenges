@@ -1,5 +1,5 @@
 function profitableGamble(prob, prize, pay) {
-	const x = prob * prize - 1;
+	const x = prob * prize - pay;
 	
 	if (x > 0) {
 		return true;
