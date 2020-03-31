@@ -18,22 +18,42 @@
 
 010 - [The Farm Problem](https://edabit.com/challenge/8Qg78sf5SNDEANKti)
 
-011 - []()
+011 - [Less Than 100?](https://edabit.com/challenge/9MjEpkL7yAjAqiH58)
 
-012 - []()
+012 - [Return the Remainder from Two Numbers](https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk)
 
-013 - []()
+013 - [Profitable Gamble](https://edabit.com/challenge/ghbHrRnRiDz9fvQNF)
 
-014 - []()
+014 - [Recursion: Length of a String](https://edabit.com/challenge/4MSbtYFBiRtxHEkY8)
 
-015 - []()
+015 - [Correct the Mistakes](https://edabit.com/challenge/ks3vMrqdnW3CQ3F4i)
 
-016 - []()
+016 - [Return the First Element in an Array](https://edabit.com/challenge/QaApgtePE6QrCZ64o)
 
-017 - []()
+017 - [Find the Perimeter of a Rectangle](https://edabit.com/challenge/XnJ24rWW7iJkNrtsh)
 
-018 - []()
+018 - [Is the String Empty?](https://edabit.com/challenge/EzbfiquDoAc2Zc9FL)
 
-019 - []()
+019 - [Convert Minutes into Seconds](https://edabit.com/challenge/8q54MKnRrm89pSLmW)
 
-020 - []()
+020 - [Equality Check](https://edabit.com/challenge/BGvTMfwxYDRbtaTJ3)
+
+021 - [Is the Number Even or Odd?](https://edabit.com/challenge/kuzB5CMXiKDEYKXAP)
+
+022 - [Multiple of 100](https://edabit.com/challenge/qMr6wYGr6NaXAPQGF)
+
+023 - [Compare Strings by Count of Characters](https://edabit.com/challenge/yHGowWucg3k2kJdZ4)
+
+024 - [Check if an Integer is Divisible By Five](https://edabit.com/challenge/iBQYbSHZGhpktLRdn)
+
+025 - [Concatenating Two Integer Arrays](https://edabit.com/challenge/CzPEsTuXfE8J8vknX)
+
+026 - [Reverse an Array](https://edabit.com/challenge/kJQYTCCWSnzhXG9dn)
+
+027 - [Find the Index](https://edabit.com/challenge/9ApjPggCLGiPt573m)
+
+028 - [Return the Last Element in an Array](https://edabit.com/challenge/7JBTN4TbaxJQMdX9W)
+
+029 - [Concatenate First and Last Name into One String](https://edabit.com/challenge/RQwdZmtrW8mCnuCMN)
+
+030 - [Name Greeting!](https://edabit.com/challenge/6kdGMdd78jpZ45ujo)
