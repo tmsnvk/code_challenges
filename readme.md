@@ -1,1 +1,1 @@
-code_challenges @ https://edabit.com
+code_challenges @ [Edabit](https://edabit.com)
