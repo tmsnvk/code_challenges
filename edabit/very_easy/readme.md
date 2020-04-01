@@ -57,3 +57,23 @@
 029 - [Concatenate First and Last Name into One String](https://edabit.com/challenge/RQwdZmtrW8mCnuCMN)
 
 030 - [Name Greeting!](https://edabit.com/challenge/6kdGMdd78jpZ45ujo)
+
+031 - [Divides Evenly](https://edabit.com/challenge/JfB9mWmbwYHbupxCB)
+
+032 - [Default Mood](https://edabit.com/challenge/DdAkLaw4eyuWgCMmF)
+
+033 - [Volume of a Box](https://edabit.com/challenge/ms3q5GYSpFpwxeFWX)
+
+034 - [Hello; Hello World; World](https://edabit.com/challenge/uJqrcYkz4NvYi9eCY)
+
+035 - [Find the Bug: Returning the Container](https://edabit.com/challenge/kAfeaiu7QrXp4RfSX)
+
+036 - [To the Power of](https://edabit.com/challenge/H25aG5aAdmFcMpBsg)
+
+037 - [ES6: Destructuring Arrays I](https://edabit.com/challenge/sWAEoTbXA4bexBPb6)
+
+038 - [ES6: Destructuring Arrays II](https://edabit.com/challenge/HBNwoHQJn5uTWJCgM)
+
+039 - [ES6: Destructuring Arrays III](https://edabit.com/challenge/STfAEAE5fjNmFCsvf)
+
+040 - [ES6: Destructuring Arrays IV](https://edabit.com/challenge/wJuXYhgetMtD4Gezj)
