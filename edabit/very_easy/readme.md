@@ -77,3 +77,61 @@
 039 - [ES6: Destructuring Arrays III](https://edabit.com/challenge/STfAEAE5fjNmFCsvf)
 
 040 - [ES6: Destructuring Arrays IV](https://edabit.com/challenge/wJuXYhgetMtD4Gezj)
+
+041 - [Find the Index (Part 1)](https://edabit.com/challenge/pEzxi4MqHGrAi7ZdA)
+
+042 - [Find the Index (Part 2)](https://edabit.com/challenge/z6Pxiw289JtaE2ndL)
+
+043 - [Return the Total Number of Parameters](https://edabit.com/challenge/hztqDz4mjCPpLMMF4)
+
+044 - [Check String for Spaces](https://edabit.com/challenge/RAoedjZwcGFhvRTru)
+
+045 - [Check if an Array Contains a Given Number](https://edabit.com/challenge/SwyjHvkqwwQ2iJsoS)
+
+046 - [Count the Arguments](https://edabit.com/challenge/Mtke2HhuFwBkFi6Ty)
+
+047 - [Slice of Pie](https://edabit.com/challenge/qkNvH9BZLTNtKQvae)
+
+048 - [Stack the Boxes](https://edabit.com/challenge/QifJBFwg32GNdiWQa)
+
+049 - [Is the Word Singular or Plural?](https://edabit.com/challenge/5vAX6Lw2Yrgdkx7Qi)
+
+050 - [Array of Word Lengths](https://edabit.com/challenge/B9yPEStmax7Jxb9Dj)
+
+051 - [Is the Last Character an N?](https://edabit.com/challenge/iiSAic33n4wGufQmG)
+
+052 - [Multiply Every Array Item by Two](https://edabit.com/challenge/pzmTaGsP6FWRNBF9y)
+
+053 - [Is It a Triangle?](https://edabit.com/challenge/k5uod5qGNgHwPaWzA)
+
+054 - [The pH Scale](https://edabit.com/challenge/GmAuzN42QXxPNpSmF)
+
+055 - [Spaces Between Each Character](https://edabit.com/challenge/8zbTPvexR9Aei3Csp)
+
+056 - []()
+
+057 - []()
+
+058 - []()
+
+059 - []()
+
+060 - []()
+
+061 - []()
+
+062 - []()
+
+063 - []()
+
+064 - []()
+
+065 - []()
+
+066 - []()
+
+067 - []()
+
+068 - []()
+
+069 - []()
