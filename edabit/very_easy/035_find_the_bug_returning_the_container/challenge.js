@@ -1,3 +1,11 @@
+// https://edabit.com/challenge/kAfeaiu7QrXp4RfSX
+
+// Find the Bug: Returning the Container
+// The packaging system is running wild!
+// The candy is lying loose all over in the warehouse, the cereal is missing, and bread is stuffed in a bottle. 
+// What is going on here? The candy should be in plastic and the bread should be in a bag.
+// The packaging machine is running the getContainer() function to retrieve the container of a product. But something is not right...
+
 function getContainer(product) {
 	let container
   switch (product) {
@@ -22,5 +30,5 @@ function getContainer(product) {
 		default:
 			container = null
 	}
-	return container
+	return container;
 }
