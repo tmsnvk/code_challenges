@@ -1,3 +1,7 @@
+// https://edabit.com/challenge/STfAEAE5fjNmFCsvf
+
+// ES6: Destructuring Arrays III
+
 // DO NOT change arr
 // DO NOT USE var [lips] = arr[2]
 // "eyes", "nose", and "ears" should not be assigned to anything
