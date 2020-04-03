@@ -9,8 +9,7 @@
 // Fanta
 
 function skipTooMuchSugarDrinks(drinks) {
-	const x = drinks.filter(elem => elem !== "cola");
-	const y = x.filter(elem => elem !== "fanta");
-	
-  return y;
+	const x = drinks.filter(elem => elem !== "cola" && elem !== "fanta");
+
+	return x;
 }
