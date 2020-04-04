@@ -4,7 +4,7 @@
 // Create a function that replaces all the vowels in a string with a specified character.
 
 const replaceVowels = (str, ch) => {
-	const x = /[aeiou]/;
+	const x = /[aeiou]/gi;
 	
-	return str.split("").map(str => str.replace(x, ch)).join("");
+	return str.replace(x, ch);
 }
