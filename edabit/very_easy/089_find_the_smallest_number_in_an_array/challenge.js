@@ -3,4 +3,4 @@
 // Find the Smallest Number in an Array
 // Create a function that takes an array of numbers and returns the smallest number in the set.
 
-const findSmallestNum = arr => return Math.min(...arr);
+const findSmallestNum = arr => Math.min(...arr);
