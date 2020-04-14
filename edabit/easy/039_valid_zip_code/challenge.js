@@ -8,4 +8,4 @@
 // Must not contain any spaces.
 // Must not be greater than 5 digits in length.
 
-const isValid = zip => zip.length === 5 && Number(zip);
+const isValid = zip => zip.length === 5 && Number(zip) ? true : false;
